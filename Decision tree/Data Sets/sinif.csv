@@ -1,0 +1,15 @@
+nitelik1,nitelik2,nitelik3,sinif,
+a,70,dogru,sinif1
+a,90,dogru,sinif2
+a,85,yanlis,sinif2
+a,95,yanlis,sinif2
+a,70,yanlis,sinif1
+b,90,dogru,sinif1
+b,78,yanlis,sinif1
+b,65,dogru,sinif1
+b,75,yanlis,sinif1
+c,80,dogru,sinif2
+c,70,dogru,sinif2
+c,80,yanlis,sinif1
+c,70,yanlis,sinif1
+c,96,yanlis,sinif1

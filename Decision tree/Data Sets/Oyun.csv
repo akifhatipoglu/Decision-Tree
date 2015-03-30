@@ -1,0 +1,15 @@
+HAVA,ISI,NEM,RUZGAR,OYUN,
+gunesli,sicak,yuksek,hafif,HAYIR
+gunesli,sicak,yuksek,kuvvetli,HAYIR
+bulutlu,sicak,yuksek,hafif,EVET
+yagmurlu,ilik,yuksek,hafif,EVET
+yagmurlu,soguk,normal,hafif,EVET
+yagmurlu,soguk,normal,kuvvetli,HAYIR
+bulutlu,soguk,normal,kuvvetli,EVET
+gunesli,ilik,yuksek,hafif,HAYIR
+gunesli,soguk,normal,hafif,EVET
+yagmurlu,ilik,normal,hafif,EVET
+gunesli,ilik,normal,kuvvetli,EVET
+bulutlu,ilik,yuksek,kuvvetli,EVET
+bulutlu,sicak,normal,hafif,EVET
+yagmurlu,ilik,yuksek,kuvvetli,HAYIR
